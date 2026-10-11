@@ -1,10 +1,3 @@
-### GitHub "About" (Kısa Açıklama) Önerileri
-* **İngilizce:** Official WPILib robot code for FRC Team 9233 Luminous Robotics during the 2026 FIRST Robotics Competition season: REBUILT™.
-* **Türkçe:** FRC Team 9233 Luminous Robotics 2026 REBUILT™ sezonu resmi robot yazılımı ve otonom kontrol mimarisi.
-
-### `README.md` Taslağı
-
-```markdown
 # FRC Team 9233 Luminous — 2026 REBUILT™ Robot Code
 
 ![FRC](https://img.shields.io/badge/FIRST-2026%20REBUILT-0066B3?style=for-the-badge)
