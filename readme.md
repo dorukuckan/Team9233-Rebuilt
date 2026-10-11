@@ -1,8 +1,5 @@
 # FRC Team 9233 Luminous — 2026 REBUILT™ Robot Code
 
-![FRC](https://img.shields.io/badge/FIRST-2026%20REBUILT-0066B3?style=for-the-badge)
-![WPILib](https://img.shields.io/badge/WPILib-2026-red?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Java%20%2F%20C%2B%2B-informational?style=for-the-badge)
 
 Official competition robot code for **FRC Team 9233 — Luminous Robotics Team** designed for the **2026 FIRST Robotics Competition game: REBUILT™ presented by Haas**.
 
